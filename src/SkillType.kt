@@ -1,0 +1,19 @@
+enum class SkillType(){
+    JAVASCRIPT,
+    PYTHON,
+    GO,
+    JAVA,
+    KOTLIN,
+    PHP,
+    CSHARP,
+    SWIFT,
+    R,
+    RUBY,
+    C,
+    C_PLUS,
+    MATLAB,
+    TYPESCRIPT,
+    SCALA,
+    RUST,
+    PERL
+}
